@@ -46,8 +46,8 @@ body {
 }
 
 .button:active, .allclearButton:active,.equalButton:active{
-    background-color: #3e8e41;
-    box-shadow: 0 3px #666;
+    background-color: #8e3e5e;
+    box-shadow: 0 3px rgb(237, 193, 193);
     transform: translateY(4px);
   }
 
