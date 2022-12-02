@@ -54,9 +54,9 @@ body {
 
 
 .button:hover,.equalButton:hover {
-	background-color: #FFBA75;
+	background-color: #4d92e1;
 	box-shadow: 0px 0px 2px #FFBA75, inset 0px -20px 1px #FF8000;
-	border-top: 2px solid #FFF;
+	border-top: 2px solid rgb(233, 239, 122);
 	border-right: 2px solid #FFF;
 	border-bottom: 2px solid #AE5700;
 	border-left: 2px solid #AE5700;
@@ -86,7 +86,7 @@ h1{
 
 }
 .container{
-		background: rgba(146, 142, 142, 0.589);
+		background: rgba(106, 100, 227, 0.822);
 		/* background-size: 100px 80px; */
 		background-size: cover;
 		position:absolute;
